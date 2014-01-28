@@ -1,10 +1,3 @@
-/*
- * CPUTempFinder.cpp
- *
- *  Created on: Feb 14, 2012
- *      Author: oryx
- */
-
 #include <sensors/sensors.h>
 #include <string>
 #include <sensor_msgs/Temperature.h>
